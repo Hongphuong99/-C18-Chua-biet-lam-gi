@@ -1,0 +1,39 @@
+Added Component: Designator=*(TSOP65P630X120-20N)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=5V Pin=*-1
+Added Pin To Net: NetName=1_IN1 Pin=*-2
+Added Pin To Net: NetName=1_IN2 Pin=*-3
+Added Pin To Net: NetName=1_IN3 Pin=*-4
+Added Pin To Net: NetName=1_IN4 Pin=*-5
+Added Pin To Net: NetName=PWM1 Pin=*-6
+Added Pin To Net: NetName=PWM2 Pin=*-7
+Added Pin To Net: NetName=GND Pin=*-10
+Added Pin To Net: NetName=GND Pin=*-19
+Added Pin To Net: NetName=5V Pin=*-20
+Added Pin To Net: NetName=Net*_11 Pin=*-11
+Added Pin To Net: NetName=Net*_11 Pin=P7-8
+Added Net: Name=Net*_11
+Added Pin To Net: NetName=Net*_12 Pin=*-12
+Added Pin To Net: NetName=Net*_12 Pin=P7-7
+Added Net: Name=Net*_12
+Added Pin To Net: NetName=Net*_13 Pin=*-13
+Added Pin To Net: NetName=Net*_13 Pin=P7-6
+Added Net: Name=Net*_13
+Added Pin To Net: NetName=Net*_14 Pin=*-14
+Added Pin To Net: NetName=Net*_14 Pin=P7-5
+Added Net: Name=Net*_14
+Added Pin To Net: NetName=Net*_15 Pin=*-15
+Added Pin To Net: NetName=Net*_15 Pin=P7-4
+Added Net: Name=Net*_15
+Added Pin To Net: NetName=Net*_16 Pin=*-16
+Added Pin To Net: NetName=Net*_16 Pin=P7-3
+Added Net: Name=Net*_16
+Added Pin To Net: NetName=Net*_17 Pin=*-17
+Added Pin To Net: NetName=Net*_17 Pin=P7-2
+Added Net: Name=Net*_17
+Added Pin To Net: NetName=Net*_18 Pin=*-18
+Added Pin To Net: NetName=Net*_18 Pin=P7-1
+Added Net: Name=Net*_18
+Added Member To Class: ClassName=Sheet1_Young Member=Component * 74HC245
+Added Member To Class: ClassName=Sheet1_Young Member=Component P7 Header 8
+Added Member To Class: ClassName=Sheet1_Young Member=Component P9 Header 8

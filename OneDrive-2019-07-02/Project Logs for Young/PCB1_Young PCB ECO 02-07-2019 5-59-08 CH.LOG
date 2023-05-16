@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=H3 NewDesignator=H2
+Change Component Designator: OldDesignator=H4 NewDesignator=H3
+Added Component: Designator=H4(LO KHOAN 3MM)
+Added Member To Class: ClassName=Sheet1_Young Member=Component H4 Hole
+Added Room: Name=Sheet1_Young

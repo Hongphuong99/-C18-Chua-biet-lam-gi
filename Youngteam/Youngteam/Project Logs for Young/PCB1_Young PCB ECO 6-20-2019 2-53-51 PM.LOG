@@ -1,0 +1,3 @@
+Change Net Name : Old Net Name=SCL New Net Name=S_P
+Change Net Name : Old Net Name=SDA New Net Name=S_N
+Added Differential Pair: Name=S

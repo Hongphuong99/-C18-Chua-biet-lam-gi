@@ -1,0 +1,101 @@
+Added Pin To Net: NetName=1_IN1 Pin=*-2
+Added Pin To Net: NetName=1_IN1 Pin=P1-9
+Added Net: Name=1_IN1
+Added Pin To Net: NetName=1_IN2 Pin=*-3
+Added Pin To Net: NetName=1_IN2 Pin=P1-10
+Added Net: Name=1_IN2
+Added Pin To Net: NetName=1_IN3 Pin=*-4
+Added Pin To Net: NetName=1_IN3 Pin=P1-11
+Added Net: Name=1_IN3
+Added Pin To Net: NetName=1_IN4 Pin=*-5
+Added Pin To Net: NetName=1_IN4 Pin=P1-12
+Added Net: Name=1_IN4
+Added Pin To Net: NetName=3.3 Pin=P2-3
+Added Pin To Net: NetName=3.3 Pin=P6-4
+Added Pin To Net: NetName=3.3 Pin=P8-4
+Added Pin To Net: NetName=3.3 Pin=P9-1
+Added Net: Name=3.3
+Added Pin To Net: NetName=5V Pin=*-1
+Added Pin To Net: NetName=5V Pin=*-20
+Added Pin To Net: NetName=5V Pin=C3-1
+Added Pin To Net: NetName=5V Pin=C4-1
+Added Pin To Net: NetName=5V Pin=P1-18
+Added Pin To Net: NetName=5V Pin=R1-2
+Added Pin To Net: NetName=5V Pin=U1-2
+Added Net: Name=5V
+Added Pin To Net: NetName=CA1 Pin=P1-1
+Added Pin To Net: NetName=CA1 Pin=P6-2
+Added Net: Name=CA1
+Added Pin To Net: NetName=CA2 Pin=P1-3
+Added Pin To Net: NetName=CA2 Pin=P8-2
+Added Net: Name=CA2
+Added Pin To Net: NetName=CB1 Pin=P1-2
+Added Pin To Net: NetName=CB1 Pin=P6-3
+Added Net: Name=CB1
+Added Pin To Net: NetName=CB2 Pin=P1-4
+Added Pin To Net: NetName=CB2 Pin=P8-3
+Added Net: Name=CB2
+Added Pin To Net: NetName=GND Pin=*-10
+Added Pin To Net: NetName=GND Pin=*-19
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=P1-19
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P5-1
+Added Pin To Net: NetName=GND Pin=P6-1
+Added Pin To Net: NetName=GND Pin=P8-1
+Added Pin To Net: NetName=GND Pin=P9-2
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=Net*_11 Pin=*-11
+Added Pin To Net: NetName=Net*_11 Pin=P7-8
+Added Net: Name=Net*_11
+Added Pin To Net: NetName=Net*_12 Pin=*-12
+Added Pin To Net: NetName=Net*_12 Pin=P7-7
+Added Net: Name=Net*_12
+Added Pin To Net: NetName=Net*_13 Pin=*-13
+Added Pin To Net: NetName=Net*_13 Pin=P7-6
+Added Net: Name=Net*_13
+Added Pin To Net: NetName=Net*_14 Pin=*-14
+Added Pin To Net: NetName=Net*_14 Pin=P7-5
+Added Net: Name=Net*_14
+Added Pin To Net: NetName=Net*_15 Pin=*-15
+Added Pin To Net: NetName=Net*_15 Pin=P7-4
+Added Net: Name=Net*_15
+Added Pin To Net: NetName=Net*_16 Pin=*-16
+Added Pin To Net: NetName=Net*_16 Pin=P7-3
+Added Net: Name=Net*_16
+Added Pin To Net: NetName=Net*_17 Pin=*-17
+Added Pin To Net: NetName=Net*_17 Pin=P7-2
+Added Net: Name=Net*_17
+Added Pin To Net: NetName=Net*_18 Pin=*-18
+Added Pin To Net: NetName=Net*_18 Pin=P7-1
+Added Net: Name=Net*_18
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C2-2
+Added Pin To Net: NetName=NetC1_1 Pin=P5-2
+Added Pin To Net: NetName=NetC1_1 Pin=U1-3
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R1-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=PWM1 Pin=*-6
+Added Pin To Net: NetName=PWM1 Pin=P1-13
+Added Net: Name=PWM1
+Added Pin To Net: NetName=PWM2 Pin=*-7
+Added Pin To Net: NetName=PWM2 Pin=P1-14
+Added Net: Name=PWM2
+Added Pin To Net: NetName=S_N Pin=P2-5
+Added Pin To Net: NetName=S_N Pin=P9-4
+Added Net: Name=S_N
+Added Pin To Net: NetName=S_P Pin=P2-6
+Added Pin To Net: NetName=S_P Pin=P9-3
+Added Net: Name=S_P
+Added Pin To Net: NetName=VB Pin=P2-20
+Added Net: Name=VB
+Added Class: Name=Sheet1_Young
+Added Differential Pair: Name=S
